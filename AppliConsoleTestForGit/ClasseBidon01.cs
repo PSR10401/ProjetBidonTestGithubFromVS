@@ -8,5 +8,6 @@ namespace AppliConsoleTestForGit
 {
 	class ClasseBidon01
 	{
+		//Commentaire bidon 1 dans classe 
 	}
 }
